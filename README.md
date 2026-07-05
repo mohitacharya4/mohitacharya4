@@ -15,15 +15,6 @@ Right now I'm going deep on **LLMs, RAG, streaming data pipelines, and Java Spri
 - **Platform:** Docker · CI/CD · 12-factor / 15-factor · observability · cloud
 - **Foundations:** DSA · HLD / LLD · system design
 
-**What I'm building** (pinned as they ship)
-
-- A production Java Spring Boot service — clean API, full test coverage, CI/CD, observability
-- A RAG application with evaluation and guardrails, aimed at a real pain point
-- **Clause** — agentic contract review
-- **Pulse** — streaming ETL (Kafka/Spark) + RAG feedback intelligence
-
-Each repo ships with an architecture diagram, documented design trade-offs, tests, containerization, a live demo, and an HLD/LLD writeup — because how you reason about a system matters more than the code.
-
 ---
 
 📫 [Portfolio](https://mohitacharya.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mohit-acharya-1b08ba91) · [LeetCode](https://leetcode.com/u/mohitacharya4/)
