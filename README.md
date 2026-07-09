@@ -10,7 +10,7 @@ Right now I'm going deep on **LLMs, RAG, streaming data pipelines, and Java Spri
 
 **What I work with**
 
-- **Backend:** Java · Spring Boot · microservices · REST · event-driven architecture
+- **Backend:** Java · Spring Boot · .NET · microservices · REST · event-driven architecture
 - **AI / Data:** LLMs · RAG · vector stores · Kafka · Spark · ETL pipelines
 - **Platform:** Docker · CI/CD · 12-factor / 15-factor · observability · cloud
 - **Foundations:** DSA · HLD / LLD · system design
